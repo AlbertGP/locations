@@ -11,6 +11,19 @@
    "latitude":43.362778,
    "longitude":-2.543056,
    "name":"Ispáster"
-  }
+  },
+  {
+   "key":"test",
+   "latitude":41.3818,
+   "longitude":2.1685,
+   "name":"TestTS"
+  },
+  {
+   "key":"test2",
+   "latitude":28.466667,
+   "longitude":-16.25,
+   "name":"TestTS2"
+  }  
+ ]  
  ]  
 }
